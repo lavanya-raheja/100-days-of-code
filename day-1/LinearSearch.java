@@ -1,4 +1,4 @@
-public class LinSearch {
+public class LinearSearch {
     public static int linSearch(int arr[], int key) { 
         for(int i = 0; i<arr.length; i++) {
             if(arr[i]==key) {
