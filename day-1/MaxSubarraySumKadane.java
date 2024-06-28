@@ -22,3 +22,4 @@ public class MaxSubarraySumKadane {
 }
 
 // EXPLANATION: Kadane's algorithm suggests that in order to find maximum sum in a subarray, we must discard negative results. So each time the currSum is negative, it becomes zero to ensure maximum sum is found. 
+// Time Complexity - O(n)
