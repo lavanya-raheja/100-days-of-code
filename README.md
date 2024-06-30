@@ -8,12 +8,6 @@ Welcome to my 100 Days of Code challenge! This repository documents my journey o
 - **End Date:** 
 - **Objective:** To enhance my understanding and proficiency in Java and DSA by solving problems daily.
 
-## Daily Log 
-
-| Day | Date | Topic | Problems Solved | Notes |
-|-----|------|-------|-----------------|-------|
-| 1   | 2024-06-28 | Arrays | 3 | Learned about array traversal and basic operations. |
-
 ## Repository Structure
 
 - `DayX/`: Contains the code and notes for each day.
