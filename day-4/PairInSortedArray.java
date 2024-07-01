@@ -1,4 +1,4 @@
-// LEETCODE PROBLEM
+// LEETCODE PROBLEM: Pairs With Given Sum In Sorted Array
 
 /* 
 Description: You are given an array Arr of size N. You need to find all pairs in the array that sum to a number K. If no such pair exists then output will be -1. The elements of the array are distinct and are in sorted order.
