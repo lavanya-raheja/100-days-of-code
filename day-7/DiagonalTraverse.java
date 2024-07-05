@@ -46,3 +46,5 @@
 
     }
 }
+
+/* Approach: I used a boolean variable to keep track of the direction of the array while traversing. Each time the array was traversed upwards, I decremented a row and incremented a column whereas each time the array was traversed downwards, I incremented a row and decremented a column.  */
