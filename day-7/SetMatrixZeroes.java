@@ -43,3 +43,16 @@ class Solution {
         }
     }
 }
+
+/*
+
+Approach: I solved this question with 3 different approaches: brute force, better time complexity and optimal solution. 
+
+- Brute Force: If an element was equal to 0, I marked its given row and column as -1, and later changed all -1 elements to 0s. However, this approach only works for positive elements. 
+
+- Better Time Complexity: I used two boolean arrays (one for rows and one for columns) and if an element was equal to 0, its corresponding row and column would be set to true in the boolean arrays. Then for all values of rows and columns which are true, the element would be set to 0. 
+
+- Optimal Solution: Instead of creating two additional arrays, I marked the rows and columns that must be set to 0 using the matrix's first row and first column. And for marking for the first row and column, I used two additional variables instead. 
+
+
+*/
