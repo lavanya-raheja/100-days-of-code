@@ -23,3 +23,5 @@ class Solution {
         }
     }
 }
+
+/* Approach: I first found the transpose of the matrix by swapping each element's rows and columns, then flipped it horizontally. */
